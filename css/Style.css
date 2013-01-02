@@ -1,0 +1,112 @@
+@font-face {
+    font-family: 'flama_condensed_lightregular';
+    src: url('../font/flamacondensed-light-webfont.eot');
+    src: url('../font/flamacondensed-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/flamacondensed-light-webfont.woff') format('woff'),
+         url('../font/flamacondensed-light-webfont.ttf') format('truetype'),
+         url('../font/flamacondensed-light-webfont.svg#flama_condensed_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+a {
+	color:#e1dde2;
+}
+a:hover {
+	color:#88d1e6;
+}
+body {
+	font-family: "flama_condensed_lightregular";
+	background:url("../images/bg.jpg") center top no-repeat;
+	text-shadow: 0.1em 0.1em #5e5955;
+	color:#e1dde2;
+}
+#Welcome {
+	text-shadow: 0.1em 0.1em #5e5955;
+	color:#e1dde2;
+}
+h1 {
+	font-size: 60px;
+	margin:0px;
+	padding:0px;
+}
+h2 {
+	font-size: 48px;
+	margin:0px;
+	padding:0px;
+	margin-bottom:20px;
+}
+p {
+	margin:0px;
+	padding:0px;
+}
+#Wrapper {
+	margin:0px auto;
+	width:980px;
+}
+#port {
+	position: relative;
+	height: 300px;
+}
+.parallax-layer {
+	position:absolute;
+	opacity:0.8;
+}
+
+#Main {
+	width:388px;
+	margin:0px auto;
+	text-align:center;
+	position:relative;
+}
+#Tip {
+	background-image:url("../images/Tip.png");
+	width:378px;
+	height:34px;
+	font-size:18px;
+	text-align:center;
+	padding:7px 5px;
+	position:absolute;
+	left: 0px;
+	top: 125px;
+	display:none;
+}
+#Win_Email,#Thanks {
+	display:none;
+}
+#Win_Email {
+	position:absolute;
+	top:164px;
+	background:url("../images/window.png");
+	width:388px;
+	height:148px;
+}
+#Btn_Invite {
+	position: absolute;
+	top: 63px;
+	left: 250px;
+}
+#tb_email {
+	background:url("../images/input.png");
+	width:195px;
+	padding:0px 5px;
+	height:35px;
+	border-width:0px;
+	position: absolute;
+	top: 65px;
+	left: 40px;
+	font-size: 17px;
+	font-family: "flama_condensed_lightregular";
+	color: #c1bcb6;
+}
+#tb_email.focused {
+	color:#4b4e51;
+}
+#Btn_X {
+	position: absolute;
+	right: 14px;
+	top: 10px;
+}
+#shares {
+	margin:22px 0px;
+}
