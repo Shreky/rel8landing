@@ -42,12 +42,13 @@
 
 	<div id="Wrapper">
 		<div id="port">
-			<img src="images/pics4.png" class="parallax-layer" style="left: 320px; top:0px; width: 628px; height: 325px;" data-xrange="30" data-yrange="10" data-invert="true">
-			<img src="images/pics5.png" class="parallax-layer" style="left: 120px; top:50px; width: 617px; height: 116px;" data-xrange="30" data-yrange="20" data-invert="true">
-			<img src="images/pics7.png" class="parallax-layer" style="left: 310px; top:120px; height: 134px;" data-xrange="30" data-yrange="30" data-invert="true">
-			<img src="images/pics6.png" class="parallax-layer" style="left: 200px; top:120px; width: 568px; height: 171px;" data-xrange="20" data-yrange="20" data-invert="true">
-			<img src="images/pics8.png" class="parallax-layer" style="left: 100px; top:0px; width: 737px; height: 322px;" data-xrange="20" data-yrange="0" data-invert="true">
-			<img src="images/pics2.png" class="parallax-layer" style="left: 70px; top:60px; width: 833px; height: 209px;" data-xrange="10" data-yrange="10" data-invert="true">
+			<img src="images/pics4.png" class="parallax-layer" style="left: 164px; top:88px; width: 628px; height: 325px;" data-xrange="30" data-yrange="10" data-invert="true">
+			<img src="images/pics5.png" class="parallax-layer" style="left: 358px; top:278px; width: 617px; height: 116px;" data-xrange="30" data-yrange="20" data-invert="true">
+			<img src="images/pics7.png" class="parallax-layer" style="left: 244px; top:190px; height: 134px;" data-xrange="30" data-yrange="30" data-invert="true">
+			<img src="images/pics3.png" class="parallax-layer" style="left: 5px; top:218px; width: 947px; height: 233px;" data-xrange="10" data-yrange="10" data-invert="true">
+			<img src="images/pics6.png" class="parallax-layer" style="left: 192px; top:104px; width: 568px; height: 171px;" data-xrange="20" data-yrange="20" data-invert="true">
+			<img src="images/pics8.png" class="parallax-layer" style="left: 240px; top:214px; width: 737px; height: 322px;" data-xrange="20" data-yrange="0" data-invert="true">
+			<img src="images/pics2.png" class="parallax-layer" style="left: 70px; top:164px; width: 833px; height: 209px;" data-xrange="10" data-yrange="10" data-invert="true">
 		</div>
 		<div id="Main">
 			<div id="Welcome">
