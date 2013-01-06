@@ -95,7 +95,7 @@ function fbauth() {
 		   signup();
 	     });
 	   }
-	 }, {scope: 'email'});
+	 });
 }
 function signup() {
 	var email = $("#tb_email").val();

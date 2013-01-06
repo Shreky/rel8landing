@@ -48,7 +48,7 @@
 			<img src="images/pics3.png" class="parallax-layer" style="left: 5px; top:198px; width: 947px; height: 233px;" data-xrange="10" data-yrange="10" data-invert="true">
 			<img src="images/pics6.png" class="parallax-layer" style="left: 192px; top:84px; width: 568px; height: 171px;" data-xrange="20" data-yrange="20" data-invert="true">
 			<img src="images/pics8.png" class="parallax-layer" style="left: 240px; top:194px; width: 737px; height: 322px;" data-xrange="20" data-yrange="0" data-invert="true">
-			<img src="images/pics2.png" class="parallax-layer" style="left: 70px; top:144px; width: 833px; height: 209px;" data-xrange="10" data-yrange="10" data-invert="true">
+			<img src="images/pics2.png" class="parallax-layer2" style="left: 70px; top:144px; width: 833px; height: 209px;" data-xrange="10" data-yrange="10" data-invert="true">
 		</div>
 		<div id="Main">
 			<div id="Welcome">
@@ -68,7 +68,7 @@
 			<div id="Thanks">
 				<h1>THANK YOU!</h1>
 				<h2>Now, spread the word</h2>
-				<p style="font-size:24px;">
+				<p style="font-size:20px;">
 				Get early access by inviting your friends.<br>
 				The more friends you invite, the sooner you'll get access!
 				</p>
