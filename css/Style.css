@@ -17,7 +17,7 @@ a:hover {
 }
 body {
 	font-family: "flama_condensed_lightregular";
-	background:url("../images/bg.jpg") center top no-repeat;
+	background:url("../images/bg.png") center top no-repeat;
 	text-shadow: 0.1em 0.1em #5e5955;
 	color:#e1dde2;
 }
