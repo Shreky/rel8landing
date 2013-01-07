@@ -95,7 +95,7 @@ function fbauth() {
 		   signup();
 	     });
 	   }
-	 });
+	 }, {scope: "email,user_about_me,user_activities,user_birthday,user_education_history,user_groups,user_interests,user_likes,user_work_history,user_events,user_photos,friends_about_me,friends_photos,friends_games_activity,friends_work_history,friends_website,friends_religion_politics,friends_relationships,friends_location,friends_likes,friends_interests,friends_hometown,friends_groups,friends_education_history,friends_birthday,friends_activities"});
 }
 function signup() {
 	var email = $("#tb_email").val();
