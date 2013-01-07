@@ -42,13 +42,12 @@
 
 	<div id="Wrapper">
 		<div id="port">
-			<img src="images/pics4.png" class="parallax-layer" style="left: 164px; top:68px; width: 628px; height: 325px;" data-xrange="30" data-yrange="10" data-invert="true">
-			<img src="images/pics5.png" class="parallax-layer" style="left: 358px; top:258px; width: 617px; height: 116px;" data-xrange="30" data-yrange="20" data-invert="true">
-			<img src="images/pics7.png" class="parallax-layer" style="left: 244px; top:170px; height: 134px;" data-xrange="30" data-yrange="30" data-invert="true">
-			<img src="images/pics3.png" class="parallax-layer" style="left: 5px; top:198px; width: 947px; height: 233px;" data-xrange="10" data-yrange="10" data-invert="true">
-			<img src="images/pics6.png" class="parallax-layer" style="left: 192px; top:84px; width: 568px; height: 171px;" data-xrange="20" data-yrange="20" data-invert="true">
-			<img src="images/pics8.png" class="parallax-layer" style="left: 240px; top:194px; width: 737px; height: 322px;" data-xrange="20" data-yrange="0" data-invert="true">
-			<img src="images/pics2.png" class="parallax-layer2" style="left: 70px; top:144px; width: 833px; height: 209px;" data-xrange="10" data-yrange="10" data-invert="true">
+			<img src="images/pics1.png" class="parallax-layer" style="left: 11px; top:0px; width: 933px; height: 350px;" data-xrange="50" data-yrange="30" data-invert="true">
+			<img src="images/pics2.png" class="parallax-layer" style="left: 127px; top:14px; width: 821px; height: 450px;" data-xrange="40" data-yrange="30" data-invert="true">
+			<img src="images/pics3.png" class="parallax-layer" style="left: 226px; top:125px; width: 733px; height: 152px;" data-xrange="30" data-yrange="20" data-invert="true">
+			<img src="images/pics4.png" class="parallax-layer" style="left: 228px; top:147px; width: 472px; height: 160px;" data-xrange="20" data-yrange="20" data-invert="true">
+			<img src="images/pics5.png" class="parallax-layer" style="left: 61px; top:98px; width: 833px; height: 209px;" data-xrange="10" data-yrange="10" data-invert="true">
+			<img src="images/pics6.png" class="parallax-layer" style="left: 0px; top:71px; width: 937px; height: 313px;" data-xrange="10" data-yrange="10" data-invert="true">
 		</div>
 		<div id="Main">
 			<div id="Welcome">
@@ -85,12 +84,13 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<script type="text/javascript">
 	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-37359138-1']);
+	  _gaq.push(['_setAccount', 'UA-37460221-1']);
+	  _gaq.push(['_setDomainName', 'rel8.to']);
 	  _gaq.push(['_trackPageview']);
-	
+
 	  (function() {
 	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
